@@ -50,3 +50,10 @@ C:\Users\joaor\Desktop\PROJETOS\Estoque\bin\Debug\net5.0\Estoque.pdb
 C:\Users\joaor\Desktop\PROJETOS\Estoque\bin\Debug\net5.0\Estoque.Views.pdb
 C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Estoque.genruntimeconfig.cache
 C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Categorias\AtualizarCategoria.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Produtos\NovoProduto.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Produtos\AtualizarProduto.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Produtos\DetalhesProduto.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Movimentacoes\AtualizarMovimentacao.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Movimentacoes\NovaMovimentacao.cshtml.g.cs
+C:\Users\joaor\Desktop\PROJETOS\Estoque\obj\Debug\net5.0\Razor\Views\Shared\Components\Movimentacoes\Default.cshtml.g.cs

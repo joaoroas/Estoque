@@ -13566,6 +13566,38 @@
         }
       },
       {
+        "HashCode": -884199676,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__MovimentacoesViewComponentTagHelper",
+        "AssemblyName": "Estoque",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:movimentacoes",
+            "Attributes": [
+              {
+                "Name": "produto-id"
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "MVC.ViewComponent",
+            "Name": "produto-id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "produtoId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__MovimentacoesViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "Movimentacoes"
+        }
+      },
+      {
         "HashCode": 141407075,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -15619,8 +15651,38 @@
   "RootNamespace": "Estoque",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Produtos\\NovoProduto.cshtml",
+      "TargetPath": "Views\\Produtos\\NovoProduto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Shared\\Components\\Movimentacoes\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Movimentacoes\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Produtos\\DetalhesProduto.cshtml",
+      "TargetPath": "Views\\Produtos\\DetalhesProduto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Movimentacoes\\AtualizarMovimentacao.cshtml",
+      "TargetPath": "Views\\Movimentacoes\\AtualizarMovimentacao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Produtos\\AtualizarProduto.cshtml",
+      "TargetPath": "Views\\Produtos\\AtualizarProduto.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15641,6 +15703,11 @@
     {
       "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Categorias\\Index.cshtml",
       "TargetPath": "Views\\Categorias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joaor\\Desktop\\PROJETOS\\Estoque\\Views\\Movimentacoes\\NovaMovimentacao.cshtml",
+      "TargetPath": "Views\\Movimentacoes\\NovaMovimentacao.cshtml",
       "FileKind": "mvc"
     },
     {
